@@ -1,0 +1,35 @@
+---
+title: "WhiteToriECNS460ProjectPart1"
+author: "Tori White"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Description of topic: 
+
+The escalating amount of time spent on screens, encompassing smartphones, tablets, and computers, is a captivating subject for several reasons across various age groups. This widespread and rapidly growing trend in modern society is fundamentally altering the way individuals engage, communicate, and access information. Additionally, researchers and scholars are increasingly studying and debating the effects of increased screen time on mental and physical health, cognitive development, and social relationships within the broader population. There is ongoing exploration of both the positive and negative aspects of increased screen time among adults, including enhanced access to educational resources and entertainment, as well as heightened risks of addiction, cyberbullying, and diminished face-to-face social interaction. Overall, the prevalence of heightened screen time in the contemporary world, its potential impacts on different aspects of human life, and the intricate trade-offs associated with this shift emphasize its relevance. This paper will scrutinize how screen time affects mental health, particularly depression, among individuals in the United States.
+
+Motivation for topic:
+
+	In this digitally connected era, we find ourselves spending an escalating amount of time engrossed in screens, whether for work, socializing, or leisure. This shift has transformed the way we perceive and interact with the world around us. However, the consequences of this shift are not yet fully understood, particularly in terms of mental health. Depression is a pressing issue globally, and as screens become an integral part of daily routines, investigating their potential correlation with mental well-being, specifically depression, is essential. Understanding the nuanced relationship between screen time and mental health can shed light on potential interventions or adjustments to mitigate any adverse effects, ultimately striving for a healthier and more balanced use of technology in our lives.
+
+Research Question: 
+	
+What are the effects of screen time on mental health in the United States?
+
+
+Dataset Descriptions:
+
+	         The Research and Development Survey (RANDS) is a series of cross-sectional surveys initiated in 2015 using probability-sampled commercial survey panels. These surveys have been integral for methodological research at the National Center for Health Statistics (NCHS), focusing on question-response patterns and statistical methodology for survey estimate calibration. Seven rounds of surveys have been conducted, spanning from 2015 to 2022 and covering various health-related topics. The data from RANDS 1-3 is utilized as pre-COVID-19 data in this study. 
+	    Additionally, Pew Research Center's American Trends Panel (ATP) proved valuable for individual-level data on this subject. The ATP is a nationally representative panel survey initiated in 2014, covering diverse topics including technology use, social trends, and political views. This dataset consists of 102 waves, with relevant waves for this research being wave 72 and wave 93. 
+          In summary, RANDS offers targeted health-related data pre-COVID-19, while ATP provides a broader range of data, including internet usage trends during the pandemic. Both datasets contribute to understanding different aspects of individuals' behaviors and conditions, providing valuable insights for research and analysis.
+
+
+RANDS DATASETS: https://www.cdc.gov/nchs/rands/r1probsample.htm 
+ATP DATASETS: https://www.pewresearch.org/american-trends-panel-datasets/ 
